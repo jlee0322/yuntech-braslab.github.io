@@ -1,8 +1,8 @@
 title: BRASLab
 email: m85091081@gmail.com
-baseurl: "yuntech-braslab.github.io" # the subpath of your site, e.g. /blog
+baseurl: "/yuntech-braslab.github.io" # the subpath of your site, e.g. /blog
 url: "https://jlee0322.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  orgs/yuntech-braslab
+github_username:  jlee0322
 
 # Build settings
 markdown: kramdown
